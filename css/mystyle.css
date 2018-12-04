@@ -3,6 +3,52 @@ body {
     background: #f3f2f2;
 }
 
+.img-fluid{
+    max-width: 80%;
+}
+.redhead {
+    background: #a6100a;
+    height: 20%;
+}
+
+.mynav {
+    background-color: #b83232;
+}
+
+.icon {
+    width: 75px;
+    margin-top: 15px;
+}
+
+.smallicon {
+    padding-top: 10px;
+    width: 30px;
+
+}
+
+.navtxt {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.navbtn:hover {
+    text-decoration-line: none;
+}
+
+
+
+
+
+
+
+
+
+/*Cards*/
+
 .mycard {
     background: white;
     border-radius: 8px;
@@ -36,7 +82,7 @@ body {
 
 .mypng {
     width: 100%;
-border-radius: 8px 8px 0 0;
+    border-radius: 8px 8px 0 0;
 
 }
 
